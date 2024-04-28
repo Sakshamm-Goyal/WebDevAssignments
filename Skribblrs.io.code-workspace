@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "code/Skribblrs.io"
+		},
+		{
+			"path": "IPR"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IPR"
+	}
+}
